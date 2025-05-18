@@ -32,12 +32,6 @@ El proyecto final consistió en una aplicación de redes neuronales convoluciona
 - Entrenamiento y validación
 - Evaluación del desempeño del modelo
 
-## 📂 Estructura del repositorio
-
-- 📁 notebooks/: Ejercicios de clase y ejemplos explicativos en Python
-- 📁 redes/: Implementaciones de redes neuronales (MLP, LSTM, CNN)
-- 📁 proyecto_marte/: Código, arquitectura, y resultados del proyecto final
-- 📁 datos/: Subconjuntos de imágenes preprocesadas
 
 ## ⚠️ Nota
 
